@@ -1,9 +1,8 @@
 source 'http://rubygems.org'
 
-ruby '2.2.0'
-
+gem 'json', github: 'flori/json', branch: 'v1.8'
 gem 'slack-ruby-bot', github: 'dblock/slack-ruby-bot' # '~> 0.5.0'
-gem 'puma'
+gem 'puma', '~> 3.0'          # Use Puma as the app server
 gem 'sinatra'
 gem 'dentaku'
 

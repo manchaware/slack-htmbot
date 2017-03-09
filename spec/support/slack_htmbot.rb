@@ -1,5 +1,5 @@
 RSpec.configure do |config|
   config.before do
-    SlackRubyBot.config.user = 'mathbot'
+    SlackRubyBot.config.user = 'htmbot'
   end
 end

@@ -1,6 +1,6 @@
 {
-	"name": "Math bot for Slack",
-	"description": "Slack integration with math.",
-	"respository": "https://github.com/dblock/slack-mathbot",
-	"keywords": ["slack", "integration", "math"],
+	"name": "HTM bot for Slack",
+	"description": "HTM Express!!",
+	"respository": "https://github.com/manchaware/slack-htmbot.git",
+	"keywords": ["slack", "integration"],
 }
